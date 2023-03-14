@@ -4,6 +4,8 @@ Geehy Semiconductor is an IC design company specializing in industrial and autom
  
 Learn more at www.geehy.com and on LinkedIn and Twitter.
 
+Ask for Samples:
+
 ![image](https://user-images.githubusercontent.com/110007518/224923419-1a45ea34-55d1-47e3-887e-1e5725dfb7b2.png)
 
 <!--
