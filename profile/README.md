@@ -6,7 +6,7 @@ Learn more at www.geehy.com and on LinkedIn and Twitter.
 
 Ask for Samples:
 
-![image](https://user-images.githubusercontent.com/110007518/224923419-1a45ea34-55d1-47e3-887e-1e5725dfb7b2.png)
+![image](https://user-images.githubusercontent.com/110007518/229725835-9df0cf18-bf1f-431c-9173-c1e39baaab1e.png)
 
 <!--
 
