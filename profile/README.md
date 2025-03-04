@@ -1,12 +1,12 @@
 ![image](https://user-images.githubusercontent.com/110007518/224920727-7dd0e2db-2925-4535-8e1f-d754c35dc238.jpeg)
 
-Geehy Semiconductor is an IC design company specializing in industrial and automotive-grade microcontrollers, mixed-signal analog ICs and SoCs. With 20 years of IC design experience and embedded system capability, Geehy can provide reliable IC products and solutions that enable accurate sensing, secure transmission, and real-time control, helping our customers to expand in automotive, industrial, smart energy, and consumer electronic markets.
+Geehy Semiconductor is an IC fabless company specializing in industrial and automotive-grade microcontrollers, mixed-signal analog ICs and SoCs. With 20 years of IC design experience and embedded system capability, Geehy can provide reliable IC products and solutions that enable accurate sensing, secure transmission, and real-time control, helping our customers to expand in automotive, industrial, smart energy, and consumer electronic markets.
  
 Learn more at www.geehy.com and on LinkedIn and Twitter.
 
 Ask for Samples:
 
-![image](https://github.com/GeehySemi/.github/assets/110007518/ecdf9972-0c7e-4c73-a06d-f99d8648c432)
+![AFS](https://github.com/user-attachments/assets/d009b906-c424-4b09-9bdc-9c0ad528a948)
 
 
 <!--
