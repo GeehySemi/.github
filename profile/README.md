@@ -53,10 +53,10 @@ SDK versions shown here follow the package information in each repository. Check
 - [APM32E103 Flash EEPROM emulation](https://github.com/GeehySemi/APM32E103_Flash_EEPROM_Emulation)
 - [APM32E103 GPIO-emulated I2C](https://github.com/GeehySemi/APM32E103_GPIO_Emulated_I2C_Example)
 - [APM32E103 PCF8563 RTC](https://github.com/GeehySemi/APM32E103-PCF8563)
-- [APM32E103 AHT10 sensor](https://github.com/GeehySemi/APM32E103_AHT10)
+- [APM32E103 AHT10 sensor](https://github.com/GeehySemi/APM32E103_AHT10_Example)
 - [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E103_ILI9341_Example)
 - [APM32F103 USART idle-line and DMA](https://github.com/GeehySemi/APM32F103_USART_Idle_DMA_Example)
-- [APM32F103 WinUSB](https://github.com/GeehySemi/APM32F103_WINUSB)
+- [APM32F103 USB CDC Virtual COM Port](https://github.com/GeehySemi/APM32F103_USB_CDC_VirtualCOMPort_Example)
 - [CAN porting guide for APM32F103](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide)
 
 ### APM32F4xx
@@ -130,10 +130,10 @@ For products, documentation, development tools, and additional support, visit th
 - [APM32E103 Flash 模拟 EEPROM](https://github.com/GeehySemi/APM32E103_Flash_EEPROM_Emulation)
 - [APM32E103 GPIO 模拟 I2C](https://github.com/GeehySemi/APM32E103_GPIO_Emulated_I2C_Example)
 - [APM32E103 PCF8563 RTC](https://github.com/GeehySemi/APM32E103-PCF8563)
-- [APM32E103 AHT10 传感器](https://github.com/GeehySemi/APM32E103_AHT10)
+- [APM32E103 AHT10 传感器](https://github.com/GeehySemi/APM32E103_AHT10_Example)
 - [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E103_ILI9341_Example)
 - [APM32F103 USART 空闲中断与 DMA](https://github.com/GeehySemi/APM32F103_USART_Idle_DMA_Example)
-- [APM32F103 WinUSB](https://github.com/GeehySemi/APM32F103_WINUSB)
+- [APM32F103 USB CDC 虚拟串口](https://github.com/GeehySemi/APM32F103_USB_CDC_VirtualCOMPort_Example)
 - [APM32F103 CAN 移植指南](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide)
 
 ### APM32F4xx
