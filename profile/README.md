@@ -40,10 +40,10 @@ SDK versions shown here follow the package information in each repository. Check
 
 ### APM32F00x and APM32F0xx
 
-- [APM32F003 low-power example](https://github.com/GeehySemi/APM32F003_Low-power)
+- [APM32F003 low-power example](https://github.com/GeehySemi/APM32F003_Low_Power_Example)
 - [APM32F003 cascaded 32-bit timer](https://github.com/GeehySemi/APM32F003_Timer_Cascade_32bit_Example)
 - [APM32F003 Flash EEPROM emulation](https://github.com/GeehySemi/APM32F003_Flash_EEPROM_Emulation)
-- [APM32F0xx I2C EEPROM](https://github.com/GeehySemi/APM32F0xx_I2C-EEPROM)
+- [APM32F0xx I2C EEPROM](https://github.com/GeehySemi/APM32F0xx_I2C_EEPROM_Example)
 - [APM32F030 IAP Bootloader](https://github.com/GeehySemi/APM32F030_IAP_Bootloader_Example)
 - [APM32F072 USB touch keyboard](https://github.com/GeehySemi/APM32F072-USB-TSC-KEYBOARD)
 - [APM32F072 USB touch mouse](https://github.com/GeehySemi/APM32F072-USB-TSC-MOUSE)
@@ -54,7 +54,7 @@ SDK versions shown here follow the package information in each repository. Check
 - [APM32E103 GPIO-emulated I2C](https://github.com/GeehySemi/APM32E103_GPIO_Emulated_I2C_Example)
 - [APM32E103 PCF8563 RTC](https://github.com/GeehySemi/APM32E103-PCF8563)
 - [APM32E103 AHT10 sensor](https://github.com/GeehySemi/APM32E103_AHT10)
-- [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E10x_ILI9341)
+- [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E103_ILI9341_Example)
 - [APM32F103 USART idle-line and DMA](https://github.com/GeehySemi/APM32F103_USART_Idle_DMA_Example)
 - [APM32F103 WinUSB](https://github.com/GeehySemi/APM32F103_WINUSB)
 - [CAN porting guide for APM32F103](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide)
@@ -65,9 +65,9 @@ SDK versions shown here follow the package information in each repository. Check
 - [ADC multi-channel scan with DMA and timer trigger](https://github.com/GeehySemi/APM32F4_ADC_MultiChannelScan_DMA_TMR8_CC1)
 - [ADC internal temperature sensor with DMA](https://github.com/GeehySemi/APM32F407_ADC_DMA_Temperature_Example)
 - [ADC temperature, VREF and VBAT](https://github.com/GeehySemi/APM32F407_ADC_Temperature_VREF_VBAT_Example)
-- [DAC and ADC voltage test](https://github.com/GeehySemi/APM32F4xx-DAC-Noise-wave)
-- [SPI2 DMA transmission](https://github.com/GeehySemi/How-to-use-APM32F4xx-SPI2-DMA-TX)
-- [USART DMA transmission](https://github.com/GeehySemi/How-to-use-APM32F4xx-USART-DMA-TX)
+- [DAC and ADC voltage test](https://github.com/GeehySemi/APM32F407_DAC_ADC_Voltage_Example)
+- [SPI2 DMA transmission](https://github.com/GeehySemi/APM32F4xx_SPI2_DMA_TX_Example)
+- [USART DMA transmission](https://github.com/GeehySemi/APM32F4xx_USART_DMA_TX_Example)
 - [USB MSC firmware-upgrade Bootloader](https://github.com/GeehySemi/APM32F407_MSC_FWUpgradeBootloader)
 
 ## Repository Status and Support
@@ -117,10 +117,10 @@ For products, documentation, development tools, and additional support, visit th
 
 ### APM32F00x 与 APM32F0xx
 
-- [APM32F003 低功耗示例](https://github.com/GeehySemi/APM32F003_Low-power)
+- [APM32F003 低功耗示例](https://github.com/GeehySemi/APM32F003_Low_Power_Example)
 - [APM32F003 级联 32 位定时器](https://github.com/GeehySemi/APM32F003_Timer_Cascade_32bit_Example)
 - [APM32F003 Flash 模拟 EEPROM](https://github.com/GeehySemi/APM32F003_Flash_EEPROM_Emulation)
-- [APM32F0xx I2C EEPROM](https://github.com/GeehySemi/APM32F0xx_I2C-EEPROM)
+- [APM32F0xx I2C EEPROM](https://github.com/GeehySemi/APM32F0xx_I2C_EEPROM_Example)
 - [APM32F030 IAP Bootloader](https://github.com/GeehySemi/APM32F030_IAP_Bootloader_Example)
 - [APM32F072 USB 触摸键盘](https://github.com/GeehySemi/APM32F072-USB-TSC-KEYBOARD)
 - [APM32F072 USB 触摸鼠标](https://github.com/GeehySemi/APM32F072-USB-TSC-MOUSE)
@@ -131,7 +131,7 @@ For products, documentation, development tools, and additional support, visit th
 - [APM32E103 GPIO 模拟 I2C](https://github.com/GeehySemi/APM32E103_GPIO_Emulated_I2C_Example)
 - [APM32E103 PCF8563 RTC](https://github.com/GeehySemi/APM32E103-PCF8563)
 - [APM32E103 AHT10 传感器](https://github.com/GeehySemi/APM32E103_AHT10)
-- [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E10x_ILI9341)
+- [APM32E103 ILI9341 LCD](https://github.com/GeehySemi/APM32E103_ILI9341_Example)
 - [APM32F103 USART 空闲中断与 DMA](https://github.com/GeehySemi/APM32F103_USART_Idle_DMA_Example)
 - [APM32F103 WinUSB](https://github.com/GeehySemi/APM32F103_WINUSB)
 - [APM32F103 CAN 移植指南](https://github.com/GeehySemi/APM32F103_CAN_Porting_Guide)
@@ -142,9 +142,9 @@ For products, documentation, development tools, and additional support, visit th
 - [ADC 多通道扫描、DMA 与定时器触发](https://github.com/GeehySemi/APM32F4_ADC_MultiChannelScan_DMA_TMR8_CC1)
 - [ADC 内部温度传感器与 DMA](https://github.com/GeehySemi/APM32F407_ADC_DMA_Temperature_Example)
 - [ADC 温度、VREF 与 VBAT](https://github.com/GeehySemi/APM32F407_ADC_Temperature_VREF_VBAT_Example)
-- [DAC 与 ADC 电压测试](https://github.com/GeehySemi/APM32F4xx-DAC-Noise-wave)
-- [SPI2 DMA 发送](https://github.com/GeehySemi/How-to-use-APM32F4xx-SPI2-DMA-TX)
-- [USART DMA 发送](https://github.com/GeehySemi/How-to-use-APM32F4xx-USART-DMA-TX)
+- [DAC 与 ADC 电压测试](https://github.com/GeehySemi/APM32F407_DAC_ADC_Voltage_Example)
+- [SPI2 DMA 发送](https://github.com/GeehySemi/APM32F4xx_SPI2_DMA_TX_Example)
+- [USART DMA 发送](https://github.com/GeehySemi/APM32F4xx_USART_DMA_TX_Example)
 - [USB MSC 固件升级 Bootloader](https://github.com/GeehySemi/APM32F407_MSC_FWUpgradeBootloader)
 
 ## 仓库状态与技术支持
