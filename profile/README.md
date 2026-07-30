@@ -62,13 +62,13 @@ SDK versions shown here follow the package information in each repository. Check
 ### APM32F4xx
 
 - [LVGL port for APM32F427](https://github.com/GeehySemi/lv_port_apm32f427)
-- [ADC multi-channel scan with DMA and timer trigger](https://github.com/GeehySemi/APM32F4_ADC_MultiChannelScan_DMA_TMR8_CC1)
+- [ADC multi-channel scan with DMA and timer trigger](https://github.com/GeehySemi/APM32F407_ADC_MultiChannel_Scan_DMA_TMR8_CC1_Example)
 - [ADC internal temperature sensor with DMA](https://github.com/GeehySemi/APM32F407_ADC_DMA_Temperature_Example)
 - [ADC temperature, VREF and VBAT](https://github.com/GeehySemi/APM32F407_ADC_Temperature_VREF_VBAT_Example)
 - [DAC and ADC voltage test](https://github.com/GeehySemi/APM32F407_DAC_ADC_Voltage_Example)
 - [SPI2 DMA transmission](https://github.com/GeehySemi/APM32F4xx_SPI2_DMA_TX_Example)
 - [USART DMA transmission](https://github.com/GeehySemi/APM32F4xx_USART_DMA_TX_Example)
-- [USB MSC firmware-upgrade Bootloader](https://github.com/GeehySemi/APM32F407_MSC_FWUpgradeBootloader)
+- [USB MSC firmware-upgrade Bootloader](https://github.com/GeehySemi/APM32F407_USB_MSC_Firmware_Upgrade_Bootloader_Example)
 
 ## Repository Status and Support
 
@@ -139,13 +139,13 @@ For products, documentation, development tools, and additional support, visit th
 ### APM32F4xx
 
 - [APM32F427 LVGL 移植](https://github.com/GeehySemi/lv_port_apm32f427)
-- [ADC 多通道扫描、DMA 与定时器触发](https://github.com/GeehySemi/APM32F4_ADC_MultiChannelScan_DMA_TMR8_CC1)
+- [ADC 多通道扫描、DMA 与定时器触发](https://github.com/GeehySemi/APM32F407_ADC_MultiChannel_Scan_DMA_TMR8_CC1_Example)
 - [ADC 内部温度传感器与 DMA](https://github.com/GeehySemi/APM32F407_ADC_DMA_Temperature_Example)
 - [ADC 温度、VREF 与 VBAT](https://github.com/GeehySemi/APM32F407_ADC_Temperature_VREF_VBAT_Example)
 - [DAC 与 ADC 电压测试](https://github.com/GeehySemi/APM32F407_DAC_ADC_Voltage_Example)
 - [SPI2 DMA 发送](https://github.com/GeehySemi/APM32F4xx_SPI2_DMA_TX_Example)
 - [USART DMA 发送](https://github.com/GeehySemi/APM32F4xx_USART_DMA_TX_Example)
-- [USB MSC 固件升级 Bootloader](https://github.com/GeehySemi/APM32F407_MSC_FWUpgradeBootloader)
+- [USB MSC 固件升级 Bootloader](https://github.com/GeehySemi/APM32F407_USB_MSC_Firmware_Upgrade_Bootloader_Example)
 
 ## 仓库状态与技术支持
 
