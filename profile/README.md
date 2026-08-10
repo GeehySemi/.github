@@ -158,6 +158,6 @@ If you encounter technical issues, please leave a message on the [Geehy official
 
 ## 样品申请
 
-如需申请开发板，可[填写申请](https://ding.cjfx.cn/f/kdywacoj?e_field=%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA)。如遇技术问题，可前往[极海官方技术社区](https://community.geehy.cn/)。
+如需申请开发板，可[点击填写开发板申请表](https://ding.cjfx.cn/f/kdywacoj?e_field=%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA)，我们会有专人与您对接。如遇技术问题，可前往[极海官方技术社区](https://community.geehy.cn/)或在线使用[极海AI助手]([https://community.geehy.cn/](https://support.geehy.com/chatAiGeehy/?data=IQXvYK3bJmSADFIWmG1I9lTlTeqCILK3g0RQ8nhmivMQrjHHC%2B6c1TQoZaj9Kr2UA5oUJdYo5%2Bwe9IblSISYCXB8%2B7fJ3JwCiqehXYA66tSYA1IfE%2BzqFV3hwpZ58Hmg31KRljyXBBBZj2YloCJNMbEmmS9XGr8vzQAv5loDmRX8Xrfmty6C0BHPpROfJTu2Z5otuGvKk0ygW2BcLehzIiokSf%2FHtT8FeRpzGyh0gpxWRW990pH2BYgMLDTBKU4lq8zxIvnFKM6ZZs%2FXfoNlo2V5mrrAw0%2Bg1ZyWqr58yF0YPnmjpbLY%2BoYL1j0VIC%2FkCOcYuRFtl7OEXkycZDN7Qw%3D%3D))。
 
 ![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh-v3.png)
