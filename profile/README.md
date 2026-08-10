@@ -80,7 +80,7 @@ For products, documentation, development tools, and additional support, visit th
 
 ## Request Samples
 
-![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-en-v2.png)
+You can apply for a development board by emailing [yang.chao@geehy.com](mailto:yang.chao@geehy.com) or info@geehy.com. If you encounter technical issues, please leave a message on the [Geehy official technical community](https://community.geehy.com/) or use the [Geehy official website AI](https://support.geehy.com/chatAiGeehy/?data=LsuLPTFaYKXuTs63mSCfmg702vIUQW%2FPEunv25PHiOuHirfAHf0P8haZy7YyNX1wEGbEydnDgLOt13IVEgfhECtDZFzjJc4SCo3vIyKwGrw03PsigkcPkH2nYsClvn6JGnGA5cNrh6SaFnoi7%2BYbqey3GpyH9hwwmctiE6yZyMzzJIS92gCeRcNzFCP6%2FpqxHMupQdOqmonXJDt30Mq3Y2wgahLAS%2BPoho6pLCdLmjtxQ%2FRikIUv2mEIsWSWhqbwQ7TXjzagKp9llXyEFc0TujZO77%2FjlQF1aV90MygTkBXHfhrvX20vLGffv4YEnwgdo4CITlO4Kq0Tj%2F%2FhNLlACw%3D%3D).
 
 ---
 
@@ -156,5 +156,7 @@ For products, documentation, development tools, and additional support, visit th
 产品信息、文档、开发工具和更多技术支持，请访问[极海半导体官网](https://www.geehy.com/)。
 
 ## 样品申请
+
+如需申请开发板，可[填写申请](https://ding.cjfx.cn/f/kdywacoj?e_field=%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA)。如遇技术问题，可前往[极海官方技术社区](https://community.geehy.cn/)。
 
 ![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh-v3.png)
