@@ -80,7 +80,8 @@ For products, documentation, development tools, and additional support, visit th
 
 ## Request Samples
 
-You can apply for a development board by emailing [yang.chao@geehy.com](mailto:yang.chao@geehy.com) or info@geehy.com. If you encounter technical issues, please leave a message on the [Geehy official technical community](https://community.geehy.com/) or use the [Geehy official website AI](https://support.geehy.com/chatAiGeehy/?data=LsuLPTFaYKXuTs63mSCfmg702vIUQW%2FPEunv25PHiOuHirfAHf0P8haZy7YyNX1wEGbEydnDgLOt13IVEgfhECtDZFzjJc4SCo3vIyKwGrw03PsigkcPkH2nYsClvn6JGnGA5cNrh6SaFnoi7%2BYbqey3GpyH9hwwmctiE6yZyMzzJIS92gCeRcNzFCP6%2FpqxHMupQdOqmonXJDt30Mq3Y2wgahLAS%2BPoho6pLCdLmjtxQ%2FRikIUv2mEIsWSWhqbwQ7TXjzagKp9llXyEFc0TujZO77%2FjlQF1aV90MygTkBXHfhrvX20vLGffv4YEnwgdo4CITlO4Kq0Tj%2F%2FhNLlACw%3D%3D).
+To request a development board, please email [yang.chao@geehy.com](mailto:yang.chao@geehy.com) or info@geehy.com. 
+If you encounter technical issues, please leave a message on the [Geehy official technical community](https://community.geehy.com/) or use the [Geehy official website AI](https://support.geehy.com/chatAiGeehy/?data=LsuLPTFaYKXuTs63mSCfmg702vIUQW%2FPEunv25PHiOuHirfAHf0P8haZy7YyNX1wEGbEydnDgLOt13IVEgfhECtDZFzjJc4SCo3vIyKwGrw03PsigkcPkH2nYsClvn6JGnGA5cNrh6SaFnoi7%2BYbqey3GpyH9hwwmctiE6yZyMzzJIS92gCeRcNzFCP6%2FpqxHMupQdOqmonXJDt30Mq3Y2wgahLAS%2BPoho6pLCdLmjtxQ%2FRikIUv2mEIsWSWhqbwQ7TXjzagKp9llXyEFc0TujZO77%2FjlQF1aV90MygTkBXHfhrvX20vLGffv4YEnwgdo4CITlO4Kq0Tj%2F%2FhNLlACw%3D%3D).
 
 ---
 
