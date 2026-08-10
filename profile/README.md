@@ -80,7 +80,7 @@ For products, documentation, development tools, and additional support, visit th
 
 ## Request Samples
 
-![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-en.png)
+![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-en-v2.png)
 
 ---
 
@@ -157,4 +157,4 @@ For products, documentation, development tools, and additional support, visit th
 
 ## 样品申请
 
-![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh-v2.png)
+![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh-v3.png)
