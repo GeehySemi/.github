@@ -157,4 +157,4 @@ For products, documentation, development tools, and additional support, visit th
 
 ## 样品申请
 
-![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh.png)
+![Ask for Samples](https://raw.githubusercontent.com/GeehySemi/.github/main/profile/contact-zh-v2.png)
