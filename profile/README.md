@@ -11,9 +11,9 @@
 
 ## About Geehy Semiconductor
 
-Geehy Semiconductor is a fabless IC company specializing in industrial- and automotive-grade microcontrollers, mixed-signal analog ICs, and system-on-chip products. This GitHub organization hosts official SDKs, development tools, open-source ports, reference projects, and application examples for APM32 microcontrollers.
+Geehy Semiconductor is a fabless IC company specializing in industrial- and automotive-grade microcontrollers, mixed-signal analog ICs, and system-on-chip products. This GitHub organization hosts official SDKs, development tools, open-source ports, reference projects, and application examples for Geehy APM32 and G32 microcontrollers.
 
-## Official APM32 SDKs
+## Official MCU SDKs
 
 | Device family | SDK repository | Current package | Main coverage |
 | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ Geehy Semiconductor is a fabless IC company specializing in industrial- and auto
 | APM32F0xx | [APM32F0xx SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | V1.8.7 | APM32F030, APM32F051, APM32F072 and related devices |
 | APM32F10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32F10x_SDK) | V2.0.0 | APM32F103, APM32F105 and APM32F107 |
 | APM32F4xx | [APM32F4xx SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | V1.5.3 | APM32F4 series |
+| G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.0 | G32R501 |
 
 SDK versions shown here follow the package information in each repository. Check the repository README and Releases for the latest available package.
 
@@ -89,9 +90,9 @@ If you encounter technical issues, please leave a message on the [Geehy official
 
 ## 关于极海半导体
 
-极海半导体是一家专注于工业级与车规级微控制器、混合信号模拟芯片及系统级芯片的集成电路设计企业。本 GitHub 组织集中提供 APM32 微控制器的官方 SDK、开发工具、开源移植项目、参考工程和应用示例。
+极海半导体是一家专注于工业级与车规级微控制器、混合信号模拟芯片及系统级芯片的集成电路设计企业。本 GitHub 组织集中提供极海 APM32 与 G32 微控制器的官方 SDK、开发工具、开源移植项目、参考工程和应用示例。
 
-## APM32 官方 SDK
+## MCU 官方 SDK
 
 | 芯片系列 | SDK 仓库 | 当前软件包 | 主要覆盖产品 |
 | --- | --- | --- | --- |
@@ -99,6 +100,7 @@ If you encounter technical issues, please leave a message on the [Geehy official
 | APM32F0xx | [APM32F0xx SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | V1.8.7 | APM32F030、APM32F051、APM32F072 等产品 |
 | APM32F10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32F10x_SDK) | V2.0.0 | APM32F103、APM32F105、APM32F107 |
 | APM32F4xx | [APM32F4xx SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | V1.5.3 | APM32F4 系列 |
+| G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.0 | G32R501 |
 
 这里显示的版本来自各仓库中的软件包信息。请进入对应仓库查看 README 和 Releases，以获取当前可用的软件包。
 
