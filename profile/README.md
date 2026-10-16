@@ -21,7 +21,7 @@ Geehy Semiconductor is a fabless IC company specializing in industrial- and auto
 | APM32F0xx | [APM32F0xx SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | V1.8.7 | APM32F030, APM32F051, APM32F072 and related devices |
 | APM32F10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32F10x_SDK) | V2.0.0 | APM32F103, APM32F105 and APM32F107 |
 | APM32F4xx | [APM32F4xx SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | V1.5.3 | APM32F4 series |
-| G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.0 | G32R501 |
+| G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.1 | G32R501 |
 
 SDK versions shown here follow the package information in each repository. Check the repository README and Releases for the latest available package.
 
