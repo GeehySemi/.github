@@ -20,7 +20,7 @@ Geehy Semiconductor is a fabless IC company specializing in industrial- and auto
 | APM32F00x | [APM32F00x SDK](https://github.com/GeehySemi/APM32F00x_SDK) | V1.5.1 | APM32F003 family |
 | APM32F0xx | [APM32F0xx SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | V1.8.7 | APM32F030, APM32F051, APM32F072 and related devices |
 | APM32F10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32F10x_SDK) | V2.0.0 | APM32F103, APM32F105 and APM32F107 |
-| APM32E10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32E10x_SDK) | V1.3.2 | APM32E103 |
+| APM32E10x | [APM32E10x SDK](https://github.com/GeehySemi/APM32E10x_SDK) | V1.3.2 | APM32E103 |
 | APM32F4xx | [APM32F4xx SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | V1.5.3 | APM32F4 series |
 | G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.1 | G32R501,G32R502 |
 
@@ -100,7 +100,7 @@ If you encounter technical issues, please leave a message on the [Geehy official
 | APM32F00x | [APM32F00x SDK](https://github.com/GeehySemi/APM32F00x_SDK) | V1.5.1 | APM32F003 系列 |
 | APM32F0xx | [APM32F0xx SDK](https://github.com/GeehySemi/APM32F0xx_SDK) | V1.8.7 | APM32F030、APM32F051、APM32F072 等产品 |
 | APM32F10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32F10x_SDK) | V2.0.0 | APM32F103、APM32F105、APM32F107 |
-| APM32E10x | [APM32F10x SDK](https://github.com/GeehySemi/APM32E10x_SDK) | V1.3.2 | APM32E103 |
+| APM32E10x | [APM32E10x SDK](https://github.com/GeehySemi/APM32E10x_SDK) | V1.3.2 | APM32E103 |
 | APM32F4xx | [APM32F4xx SDK](https://github.com/GeehySemi/APM32F4xx_SDK) | V1.5.3 | APM32F4 系列 |
 | G32R5xx | [G32R5xx SDK](https://github.com/GeehySemi/G32R5xx_SDK) | V1.1.1 | G32R501、G32R502 |
 
